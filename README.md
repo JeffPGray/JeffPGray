@@ -1,16 +1,8 @@
 <div align="center">
 
-<!-- HERO: dark luxury gold gradient texture -->
-<img src="https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=1600&h=280&fit=crop&q=85&sat=-20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,35:0f1629,70:1a2547,100:C9A84C&height=300&text=GRAY%20RESERVE&fontSize=78&fontColor=C9A84C&fontAlignY=43&fontAlign=50&desc=STRATEGIC%20GROWTH%20FIRM%20%20%20%7C%20%20%20The%20Woodlands%2C%20Texas&descSize=15&descColor=cccccc&descAlignY=63&animation=fadeIn&stroke=C9A84C&strokeWidth=1" width="100%"/>
 
-<!-- GR LOGO — rendered directly from SVG, no black box -->
-<br/>
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/gr-logo-wide.svg" width="320" alt="Gray Reserve — Strategic Growth Firm"/>
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&width=920&height=48&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table+every+month.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Six+disciplines.+One+compounding+engine.+Zero+shared+playbooks." alt="Gray Reserve" />
-</a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&width=920&height=46&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table+every+month.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Six+disciplines.+One+compounding+engine.+Zero+shared+playbooks." alt="Gray Reserve" /></a>
 
 <br/><br/>
 
@@ -20,14 +12,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/access@grayreserve.com-0a0e1a?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:access@grayreserve.com)
 
-</div>
-
-<!-- GOLD DIVIDER STRIP -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=5&fit=crop&q=80" width="100%"/>
-
 <br/>
-
-<div align="center">
 
 ![250+](https://img.shields.io/badge/250%2B-BUSINESSES%20SERVED-C9A84C?style=for-the-badge&labelColor=0a0e1a)
 &nbsp;
@@ -39,39 +24,18 @@
 
 </div>
 
-<br/>
-
 ---
-
-<br/>
-
-<table>
-<tr>
-<td width="55%" valign="top">
 
 ## The Firm
 
 Built from **The Woodlands, Texas** and deployed nationally, Gray Reserve is a private strategic growth firm for owners who have decided to **lead their category** rather than compete within it.
 
-We combine proprietary data augmentation with full-service digital marketing. Each discipline stands alone. Together, they compound market share rather than chase it.
+We combine proprietary data augmentation with full-service digital marketing. Each discipline stands alone. Together, they compound market share rather than chase it. No two engagements are alike — every system, campaign, and strategy is architected from first principles for your specific business, market, and competitive position.
 
-No two engagements are alike. Every system, campaign, and strategy is architected from first principles for your specific business, market, and competitive position.
+> *We do not recycle playbooks. We do not share client identities. What we build for you exists for you alone.*
 
-> *We do not recycle playbooks. We do not share client identities.*  
-> *What we build for you exists for you alone.*
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=300&fit=crop&q=85" width="100%" style="border-radius:6px"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
+<!-- dark blue tech globe - full width accent -->
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=180&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -94,10 +58,8 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 
 </div>
 
-<br/>
-
-<!-- TECH TEXTURE DIVIDER -->
-<img src="https://images.unsplash.com/photo-1545987796-200677ee1011?w=1600&h=5&fit=crop&q=80" width="100%"/>
+<!-- dark geometric mesh - full width accent -->
+<img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -109,26 +71,11 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
-
 Every client engagement is engineered from scratch — no page builders, no bloated themes, no shortcuts. The stack is chosen for the job. The result is always the same: fast, conversion-ready, built to lead.
 
 We build in two directions. For content and local service sites, we migrate clients off WordPress/Elementor onto **Astro + Tailwind** — static output, near-perfect Core Web Vitals, zero plugin dependency. For eCommerce, we build on our own **Valor theme** — a modular WordPress/WooCommerce foundation with a proprietary plugin suite that replaces entire categories of off-the-shelf software.
 
 Every deployment ships with a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO dominance.
-
-</td>
-<td width="45%" valign="top">
-
-<div align="center">
-<img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=500&h=300&fit=crop&q=85" width="100%" style="border-radius:6px"/>
-</div>
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -141,7 +88,7 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
-![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=C9A84C)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **── LANGUAGES ──**
@@ -163,16 +110,14 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Close CRM](https://img.shields.io/badge/Close_CRM-4CAF50?style=for-the-badge&logoColor=white)
-![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
-<br/>
-
-<!-- GEOMETRIC DIVIDER -->
-<img src="https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=1600&h=5&fit=crop&q=80" width="100%"/>
+<!-- gold bokeh strip -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -180,8 +125,8 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 
 # PROPRIETARY BUILD SUITE
 
-*Engineered in-house. Every plugin replaces a category — not a feature.*  
-*This is the tip of the iceberg.*
+*Engineered in-house. Every tool replaces a category — not a feature.*  
+*What's public here is the tip of the iceberg.*
 
 </div>
 
@@ -194,7 +139,7 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 ### ⚡ GR Performance
 **Kills your plugin list.**
 
-Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in a single modular plugin. 11 independently toggleable modules: page caching, WebP/AVIF image conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, conditional asset loading. PHP 8.0+, PSR autoloading, zero configuration sprawl.
+Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in one plugin. 11 independently toggleable modules: page caching, WebP/AVIF conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, conditional asset loading. PHP 8.0+, PSR autoloading, zero configuration sprawl.
 
 </td>
 <td width="50%" valign="top">
@@ -202,7 +147,7 @@ Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in a single modular 
 ### 💳 GR Checkout
 **Converts where it counts.**
 
-Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. Streamlined one-page checkout, configurable pre-purchase order bumps, frequently-bought-together upsells, post-purchase thank-you page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
+Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. One-page checkout, pre-purchase order bumps, frequently-bought-together upsells, post-purchase page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
 
 </td>
 </tr>
@@ -212,7 +157,7 @@ Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent sys
 ### 🔍 GR SEO Companion
 **Rich results on day one.**
 
-Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD structured data: WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers), Review schema, and FAQPage schema parsed from native HTML. No configuration required.
+Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema parsed from native HTML. Zero configuration required.
 
 </td>
 <td width="50%" valign="top">
@@ -220,7 +165,7 @@ Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-inje
 ### ↔️ GR Compare
 **Apple-style. WooCommerce-native.**
 
-Side-by-side comparison of up to 4 products. Sticky bottom bar, expandable spec tables, REST API for async loading, localStorage persistence across navigation. The UX Shopify merchants pay $30/month for — built native, no external dependencies.
+Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST API, localStorage persistence. The UX Shopify merchants pay $30/month for — built native, zero dependencies.
 
 </td>
 </tr>
@@ -230,9 +175,9 @@ Side-by-side comparison of up to 4 products. Sticky bottom bar, expandable spec 
 ### 🎨 Valor Theme
 **The foundation everything runs on.**
 
-Thin modular loader — all logic in `inc/` classes, license-gated, zero bloat on activation. Ships with mega menu, carousel, wishlist, size guide modal, unified pixel manager (Meta · GA4 · TikTok), and full WooCommerce integration that only loads when WC is active.
+Modular WordPress theme — license-gated, zero bloat. Ships with mega menu, carousel, wishlist, size guide modal, unified pixel manager (Meta · GA4 · TikTok), and full WooCommerce integration that loads only when WC is active.
 
-*Deployed on: Auto Spa & Detailing*
+*Deployed on: Auto Spa & Detailing Client*
 
 </td>
 <td width="50%" valign="top">
@@ -240,7 +185,7 @@ Thin modular loader — all logic in `inc/` classes, license-gated, zero bloat o
 ### 🔫 GR Rifle Builder
 **The most complex thing we've built.**
 
-A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step build flow with gear layout display, included vs. upgrade pricing, bundle discounts, WooCommerce cart integration, quote system with CPT, REST API, and file integrity license protection. Built for one client. *Too useful not to keep.*
+Fully custom AR-15 configurator for specialty firearms eCommerce. Step-by-step build flow, gear layout display, included vs. upgrade pricing, bundle discounts, WooCommerce cart integration, quote CPT, REST API, and cryptographic license + file integrity protection.
 
 *Deployed on: Specialty Firearms eCommerce*
 
@@ -248,7 +193,8 @@ A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step
 </tr>
 </table>
 
-<br/>
+<!-- dark starfield footer accent -->
+<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -317,11 +263,6 @@ A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step
 
 </div>
 
-<br/>
-
-<!-- GOLD STRIP -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=5&fit=crop&q=80" width="100%"/>
-
 ---
 
 <div align="center">
@@ -360,8 +301,7 @@ A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step
 <br/>
 
 *Fifteen minutes. No cost. No deck.*  
-*Only the mathematics of what you're leaving on the table — and how to reclaim it permanently.*
-
+*Only the mathematics of what you're leaving on the table — and how to reclaim it permanently.*  
 *All inquiries remain strictly confidential. We do not disclose who we work with.*
 
 <br/>
@@ -374,7 +314,6 @@ A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step
 
 <br/>
 
-<!-- FOOTER IMAGE: cosmic luxury -->
-<img src="https://images.unsplash.com/photo-1464802686167-b939a6910659?w=1600&h=220&fit=crop&q=85" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,30:b8952f,70:0f1629,100:0a0e1a&height=160&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
