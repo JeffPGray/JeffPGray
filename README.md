@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,35:0f1629,70:1a2547,100:C9A84C&height=300&text=GRAY%20RESERVE&fontSize=78&fontColor=C9A84C&fontAlignY=43&fontAlign=50&desc=STRATEGIC%20GROWTH%20FIRM%20%20%20%7C%20%20%20The%20Woodlands%2C%20Texas&descSize=15&descColor=cccccc&descAlignY=63&animation=fadeIn&stroke=C9A84C&strokeWidth=1" width="100%"/>
 
+<br/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/gr-logo-wide.svg" width="300" alt="Gray Reserve — Strategic Growth Firm"/>
+<br/><br/>
+
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&width=920&height=46&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table+every+month.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Six+disciplines.+One+compounding+engine.+Zero+shared+playbooks." alt="Gray Reserve" /></a>
 
 <br/><br/>
@@ -34,7 +38,7 @@ We combine proprietary data augmentation with full-service digital marketing. Ea
 
 > *We do not recycle playbooks. We do not share client identities. What we build for you exists for you alone.*
 
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=160&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-lines.jpg" width="100%"/>
 
 ---
 
@@ -57,7 +61,7 @@ We combine proprietary data augmentation with full-service digital marketing. Ea
 
 </div>
 
-<img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-slashes.jpg" width="100%"/>
 
 ---
 
@@ -134,7 +138,7 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 
 </div>
 
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-waves.jpg" width="100%"/>
 
 ---
 
@@ -304,7 +308,7 @@ themes/valor-theme/
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Crest — Astro / Tailwind Theme
+### ⚡ Lytir — Astro / Tailwind Theme
 
 Purpose-built for local service businesses — auto detailing, med spas, home services, specialty retail, and any business that needs to own a geographic market. Migrates clients off WordPress/Elementor bloat onto static Astro with near-perfect Core Web Vitals out of the box.
 
@@ -313,7 +317,7 @@ Fully data-driven. Swap `business.ts` and you have a new deployment. Ships with 
 **Status:** Deployed — auto spa & detailing vertical.
 
 ```
-crest-theme/  (Astro + Tailwind)
+lytir-theme/  (Astro + Tailwind)
 ├── src/
 │   ├── layouts/
 │   │   ├── BaseLayout.astro
@@ -347,7 +351,7 @@ crest-theme/  (Astro + Tailwind)
 </tr>
 </table>
 
-<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-lines.jpg" width="100%"/>
 
 ---
 
@@ -467,6 +471,6 @@ crest-theme/  (Astro + Tailwind)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,30:b8952f,70:0f1629,100:0a0e1a&height=160&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/footer-waves.jpg" width="100%" alt=""/>
 
 </div>
