@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,35:0f1629,70:1a2547,100:C9A84C&height=300&text=GRAY%20RESERVE&fontSize=78&fontColor=C9A84C&fontAlignY=43&fontAlign=50&desc=STRATEGIC%20GROWTH%20FIRM%20%20%20%7C%20%20%20The%20Woodlands%2C%20Texas&descSize=15&descColor=cccccc&descAlignY=63&animation=fadeIn&stroke=C9A84C&strokeWidth=1" width="100%"/>
-
-<br/>
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/gr-logo-wide.svg" width="300" alt="Gray Reserve — Strategic Growth Firm"/>
-<br/><br/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/header.jpg" width="100%" alt="Gray Reserve — Strategic Growth Firm"/>
 
 <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=23&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&width=920&height=46&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table+every+month.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Six+disciplines.+One+compounding+engine.+Zero+shared+playbooks." alt="Gray Reserve" /></a>
 
@@ -32,13 +28,15 @@
 
 ## The Firm
 
-Built from **The Woodlands, Texas** and deployed nationally, Gray Reserve is a private strategic growth firm for owners who have decided to **lead their category** rather than compete within it.
+Gray Reserve is a private strategic growth firm built from **The Woodlands, Texas** and deployed nationally. We work with owners who have made a decision — not to compete harder in their market, but to **lead it outright**.
 
-We combine proprietary data augmentation with full-service digital marketing. Each discipline stands alone. Together, they compound market share rather than chase it. No two engagements are alike — every system, campaign, and strategy is architected from first principles for your specific business, market, and competitive position.
+Most businesses lose 42–67% of their potential market not from bad products or poor service, but from structural gaps in how they attract, capture, and convert demand. Inconsistent advertising. Audiences built on guesswork. Websites engineered for aesthetics instead of revenue. Sales processes that leak at every stage. These are solvable problems — and they compound.
 
-> *We do not recycle playbooks. We do not share client identities. What we build for you exists for you alone.*
+We combine **proprietary audience data** with full-service digital marketing and systems architecture across six disciplines. Each one is deployable standalone. Layer them, and the effect isn't additive — it's exponential. A business running all six disciplines doesn't just grow; it accumulates structural advantages that competitors can't reverse-engineer fast enough to matter.
 
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-lines.jpg" width="100%"/>
+Every engagement is private by design. No two strategies are alike. Every system, campaign, and data asset is architected from first principles for your specific business, market position, and competitive landscape. We do not share what we build. We do not recycle what has worked before. What we create for you belongs to you — and only you will have it.
+
+> *We do not disclose our clients. We do not share our playbooks. The work we do for you exists for you alone.*
 
 ---
 
@@ -61,8 +59,6 @@ We combine proprietary data augmentation with full-service digital marketing. Ea
 
 </div>
 
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-slashes.jpg" width="100%"/>
-
 ---
 
 <div align="center">
@@ -83,14 +79,14 @@ We don't do page builders. Every site ships from one of two purpose-built stacks
 <tr>
 <td width="50%" valign="top">
 
-**For Content & Local Service Businesses**
+**Content & Local Service Businesses**
 
 We migrate clients off WordPress/Elementor bloat onto **Astro + Tailwind** — static output, sub-second load times, near-perfect Core Web Vitals, zero plugin dependency. Deployments include data-driven location pages at scale, service-specific layouts, video hero sections, integrated schema markup, Google Reviews, and quote/contact forms — all from a single configurable data layer.
 
 </td>
 <td width="50%" valign="top">
 
-**For eCommerce & WooCommerce**
+**eCommerce & WooCommerce**
 
 We build on our own **Valor theme** — a modular WordPress/WooCommerce foundation paired with a proprietary plugin suite. One-page checkout, product comparison, structured data, and performance optimization are all handled by purpose-built tools that replace entire categories of off-the-shelf software. No plugin conflicts. No bloat. No compromises on the most revenue-critical pages.
 
@@ -138,8 +134,6 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 
 </div>
 
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-waves.jpg" width="100%"/>
-
 ---
 
 <div align="center">
@@ -176,8 +170,7 @@ plugins/gr-performance/
 │   ├── class-grp-cleanup.php
 │   ├── class-grp-database.php
 │   └── class-grp-cron.php
-└── admin/views/  (dashboard, cache, images,
-                   settings, htaccess, database)
+└── admin/views/
 ```
 
 </td>
@@ -197,12 +190,10 @@ plugins/gr-checkout/
     └── class-grc-thankyou.php
 ```
 
-<br/>
-
 ### 🔍 GR SEO Companion
 **Rich results on day one.**
 
-Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema from native `<details>/<summary>` HTML. Zero configuration required.
+Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema from native HTML. Zero configuration required.
 
 ```
 plugins/gr-seo-companion/
@@ -252,15 +243,12 @@ plugins/gr-rifle-builder/
     ├── builder-gear-layout.php
     ├── builder-product-grid.php
     ├── builder-summary.php
-    ├── builder-quote-modal.php
-    └── email/ (quote request + confirmation)
+    └── builder-quote-modal.php
 ```
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ---
 
@@ -280,7 +268,7 @@ plugins/gr-rifle-builder/
 
 ### 🎨 Valor — WordPress / WooCommerce Theme
 
-Modular WordPress theme built for eCommerce and high-converting product sites. License-gated, zero bloat on activation. All logic lives in `inc/` classes with PSR-style autoloading — swap or extend any module without touching core files.
+Modular WordPress theme built for eCommerce and high-converting product sites. License-gated, zero bloat on activation. All logic lives in `inc/` classes — swap or extend any module without touching core files.
 
 Ships with mega menu, carousel, Ajax search, wishlist, size guide modal, customizer integration, and a unified pixel manager (Meta · GA4 · TikTok). Full WooCommerce integration only loads when WC is active.
 
@@ -300,9 +288,8 @@ themes/valor-theme/
 │   ├── class-valor-size-guide.php
 │   ├── class-valor-pixel-manager.php
 │   ├── class-valor-customizer.php
-│   ├── class-valor-license.php
-│   └── class-valor-admin.php
-└── woocommerce/  (product, cart, archive templates)
+│   └── class-valor-license.php
+└── woocommerce/
 ```
 
 </td>
@@ -310,9 +297,9 @@ themes/valor-theme/
 
 ### ⚡ Lytir — Astro / Tailwind Theme
 
-Purpose-built for local service businesses — auto detailing, med spas, home services, specialty retail, and any business that needs to own a geographic market. Migrates clients off WordPress/Elementor bloat onto static Astro with near-perfect Core Web Vitals out of the box.
+Purpose-built for local service businesses — auto detailing, med spas, home services, specialty retail, and any business that needs to own a geographic market. Fully data-driven: swap `business.ts` and you have a new deployment.
 
-Fully data-driven. Swap `business.ts` and you have a new deployment. Ships with geo-targeted location page architecture (scale to 20+ cities from a single layout), service-specific page templates, video hero sections, Google Reviews integration, FAQ accordion with auto-injected schema, quote forms, and breadcrumb + sitemap generation.
+Ships with geo-targeted location page architecture (20+ cities from a single layout), service templates, video hero sections, Google Reviews integration, FAQ accordion with auto-injected schema, quote forms, and breadcrumb + sitemap generation.
 
 **Status:** Deployed — auto spa & detailing vertical.
 
@@ -327,31 +314,25 @@ lytir-theme/  (Astro + Tailwind)
 │   │   └── BlogLayout.astro
 │   ├── components/
 │   │   ├── Hero.astro
-│   │   ├── Header.astro  /  Footer.astro
+│   │   ├── Header.astro / Footer.astro
 │   │   ├── ServiceCard.astro
 │   │   ├── FeaturePillar.astro
 │   │   ├── FAQAccordion.astro
 │   │   ├── GoogleReviews.astro
 │   │   ├── CTABanner.astro
-│   │   ├── CTAWithForm.astro
 │   │   ├── QuoteForm.astro
-│   │   ├── ContactForm.astro
 │   │   ├── SchemaMarkup.astro
-│   │   ├── BlogCard.astro
 │   │   └── Breadcrumbs.astro
 │   └── data/
 │       ├── business.ts   ← swap this, new deployment
 │       ├── services.ts
 │       ├── locations.ts
-│       ├── reviews.ts
 │       └── navigation.ts
 ```
 
 </td>
 </tr>
 </table>
-
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/divider-lines.jpg" width="100%"/>
 
 ---
 
@@ -471,6 +452,6 @@ lytir-theme/  (Astro + Tailwind)
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/footer-waves.jpg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/assets/footer.jpg" width="100%" alt=""/>
 
 </div>
