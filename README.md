@@ -42,7 +42,7 @@ Every engagement is private by design. No two strategies are alike. Every system
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; SIX DISCIPLINES. ONE COMPOUNDING ENGINE. &nbsp;&nbsp; `◈`
+# SIX DISCIPLINES. ONE COMPOUNDING ENGINE.
 
 *Every discipline delivers alone. Layer them — and advantage doesn't add. It compounds.*
 
@@ -275,7 +275,7 @@ plugins/gr-rifle-builder/
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; THEMES &nbsp;&nbsp; `◈`
+# THEMES
 
 *Two purpose-built themes. Two different stacks. Both production-ready templates.*
 
@@ -359,7 +359,7 @@ lytir-theme/  (Astro + Tailwind)
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; IN THEIR OWN WORDS &nbsp;&nbsp; `◈`
+# IN THEIR OWN WORDS
 
 </div>
 
@@ -426,7 +426,7 @@ lytir-theme/  (Astro + Tailwind)
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; PUBLISHED INTELLIGENCE &nbsp;&nbsp; `◈`
+# PUBLISHED INTELLIGENCE
 
 *80+ long-form articles on growth, AI systems, and paid media.*  
 *The strategies most agencies won't publish.*
@@ -455,7 +455,7 @@ lytir-theme/  (Astro + Tailwind)
 
 <br/>
 
-### `◈` &nbsp;&nbsp; READY TO COMPOUND? &nbsp;&nbsp; `◈`
+# READY TO COMPOUND?
 
 <br/>
 
