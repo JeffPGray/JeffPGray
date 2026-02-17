@@ -106,7 +106,13 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=C9A84C)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=for-the-badge&logo=squarespace&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![ClickFunnels](https://img.shields.io/badge/ClickFunnels-E8441A?style=for-the-badge&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **── LANGUAGES ──**
 
@@ -114,20 +120,48 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**── GROWTH & AI ──**
+**── ADVERTISING ──**
 
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Go High Level](https://img.shields.io/badge/Go_High_Level-F97316?style=for-the-badge&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![YouTube Ads](https://img.shields.io/badge/YouTube_Ads-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+**── CRM & EMAIL ──**
+
+![Go High Level](https://img.shields.io/badge/Go_High_Level-F97316?style=for-the-badge&logoColor=white)
 ![Close CRM](https://img.shields.io/badge/Close_CRM-4CAF50?style=for-the-badge&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![Postscript](https://img.shields.io/badge/Postscript-6C3BF5?style=for-the-badge&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+**── ANALYTICS ──**
+
+![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Hotjar](https://img.shields.io/badge/Hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logoColor=white)
+
+**── AI & AUTOMATION ──**
+
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -157,20 +191,20 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in one plugin. 11 independently toggleable modules: page caching, WebP/AVIF conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, conditional asset loading. PHP 8.0+, PSR autoloading, zero configuration sprawl.
 
 ```
-plugins/gr-performance/
-├── includes/
-│   ├── class-grp-cache.php
-│   ├── class-grp-images.php
-│   ├── class-grp-scripts.php
-│   ├── class-grp-styles.php
-│   ├── class-grp-html.php
-│   ├── class-grp-hints.php
-│   ├── class-grp-htaccess.php
-│   ├── class-grp-assets.php
-│   ├── class-grp-cleanup.php
-│   ├── class-grp-database.php
-│   └── class-grp-cron.php
-└── admin/views/
+gr-performance/
+├── 11 independently toggleable modules
+│   ├── [ Cache Engine          ]
+│   ├── [ Image Pipeline        ]  WebP · AVIF conversion
+│   ├── [ Script Optimizer      ]
+│   ├── [ Style Optimizer       ]
+│   ├── [ HTML Minifier         ]
+│   ├── [ Resource Hints        ]
+│   ├── [ Server Config         ]  .htaccess tuning
+│   ├── [ Asset Controller      ]  conditional loading
+│   ├── [ Site Cleanup          ]
+│   ├── [ Database Optimizer    ]
+│   └── [ Scheduled Maintenance ]
+└── admin/ dashboard per module
 ```
 
 </td>
@@ -182,12 +216,12 @@ plugins/gr-performance/
 Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. One-page checkout, configurable pre-purchase order bumps, frequently-bought-together upsells, post-purchase page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
 
 ```
-plugins/gr-checkout/
-└── includes/
-    ├── class-grc-checkout.php
-    ├── class-grc-order-bump.php
-    ├── class-grc-upsell.php
-    └── class-grc-thankyou.php
+gr-checkout/
+└── 4-stage conversion system
+    ├── [ Checkout Layer        ]  one-page flow
+    ├── [ Pre-Purchase Engine   ]  order bump logic
+    ├── [ Post-Purchase Engine  ]  upsell + countdown
+    └── [ Thank You Builder     ]  configurable CTA
 ```
 
 </td>
@@ -201,9 +235,12 @@ plugins/gr-checkout/
 Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD structured data across the entire site: WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, and FAQPage schema parsed automatically from native `<details>/<summary>` HTML. Zero configuration required. Zero query overhead.
 
 ```
-plugins/gr-seo-companion/
-└── gr-seo-companion.php
-    (single-file mu-plugin — lean by design)
+gr-seo-companion/
+└── [ Single-file mu-plugin ]
+    ├── Product schema injection
+    ├── Review schema injection
+    └── FAQPage schema parser
+    — always on, zero config, zero overhead
 ```
 
 </td>
@@ -215,11 +252,13 @@ plugins/gr-seo-companion/
 Targeted performance layer for sites that need speed gains without a full caching overhaul. Resource hints (preconnect, DNS-prefetch), native lazy loading, font-display swap, YouTube facade, link prefetch on hover, and selective script defer — all without touching jQuery, Revolution Slider, or WPBakery. Ships with a companion JS loader that runs before DOM-ready.
 
 ```
-plugins/gr-speed-optimizations/
-├── g2-speed-optimizations.php
-└── g2-speed-load.js
-    (resource hints · defer · lazy load ·
-     preconnect headers · YouTube facade)
+gr-speed-optimizations/
+└── [ Targeted front-end layer ]
+    ├── Resource hints + preconnect headers
+    ├── Selective script defer
+    ├── Native lazy load + font-display swap
+    └── YouTube facade + link prefetch
+    — surgical, never breaks page builders
 ```
 
 </td>
@@ -233,11 +272,12 @@ plugins/gr-speed-optimizations/
 Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST API for async loading, localStorage persistence. The UX Shopify merchants pay $30/month for — built native, zero dependencies.
 
 ```
-plugins/gr-compare/
-└── includes/
-    ├── class-grcomp-compare.php
-    ├── class-grcomp-rest.php
-    └── class-grcomp-shortcode.php
+gr-compare/
+└── [ 3-layer architecture ]
+    ├── [ Comparison Engine  ]  up to 4 products
+    ├── [ REST API Layer     ]  async loading
+    └── [ Shortcode System   ]  drop-in anywhere
+    — localStorage persistent · zero dependencies
 ```
 
 </td>
@@ -249,22 +289,16 @@ plugins/gr-compare/
 Fully custom AR-15 configurator for specialty firearms eCommerce. Step-by-step build flow, gear layout display, included vs. upgrade pricing, bundle discounts, WooCommerce cart integration, quote CPT, REST API, and cryptographic license + file integrity protection.
 
 ```
-plugins/gr-rifle-builder/
-├── includes/
-│   ├── class-g2rb-loader.php
-│   ├── class-g2rb-rest-api.php
-│   ├── class-g2rb-cart.php
-│   ├── class-g2rb-quote.php
-│   ├── class-g2rb-quote-cpt.php
-│   ├── class-g2rb-product-query.php
-│   └── class-g2rb-license.php
-└── templates/
-    ├── builder-main.php
-    ├── builder-step-nav.php
-    ├── builder-gear-layout.php
-    ├── builder-product-grid.php
-    ├── builder-summary.php
-    └── builder-quote-modal.php
+gr-rifle-builder/
+├── [ Core Engine      ]  7 modules
+│   ├── Loader · REST API · Cart Integration
+│   ├── Quote System · CPT · Product Query
+│   └── License + File Integrity Protection
+└── [ Template Layer   ]  6 templates
+    ├── Step navigation + gear layout
+    ├── Product grid + build summary
+    └── Quote modal + transactional email
+    — cryptographic license · tamper detection
 ```
 
 </td>
@@ -296,21 +330,16 @@ Ships with mega menu, carousel, Ajax search, wishlist, size guide modal, customi
 **Status:** In development — not yet deployed.
 
 ```
-themes/valor-theme/
-├── inc/
-│   ├── class-valor-setup.php
-│   ├── class-valor-cleanup.php
-│   ├── class-valor-assets.php
-│   ├── class-valor-woocommerce.php
-│   ├── class-valor-mega-menu.php
-│   ├── class-valor-carousel.php
-│   ├── class-valor-ajax-search.php
-│   ├── class-valor-wishlist.php
-│   ├── class-valor-size-guide.php
-│   ├── class-valor-pixel-manager.php
-│   ├── class-valor-customizer.php
-│   └── class-valor-license.php
-└── woocommerce/
+valor-theme/
+├── [ 12 standalone modules ]
+│   ├── Core: Setup · Cleanup · Assets
+│   ├── Commerce: WooCommerce · Mega Menu
+│   ├── UX: Carousel · Ajax Search
+│   ├── Conversion: Wishlist · Size Guide
+│   ├── Tracking: Unified Pixel Manager
+│   │              Meta · GA4 · TikTok
+│   └── System: Customizer · License
+└── woocommerce/ template overrides
 ```
 
 </td>
@@ -326,29 +355,14 @@ Ships with geo-targeted location page architecture (20+ cities from a single lay
 
 ```
 lytir-theme/  (Astro + Tailwind)
-├── src/
-│   ├── layouts/
-│   │   ├── BaseLayout.astro
-│   │   ├── PageLayout.astro
-│   │   ├── ServiceLayout.astro
-│   │   ├── LocationLayout.astro
-│   │   └── BlogLayout.astro
-│   ├── components/
-│   │   ├── Hero.astro
-│   │   ├── Header.astro / Footer.astro
-│   │   ├── ServiceCard.astro
-│   │   ├── FeaturePillar.astro
-│   │   ├── FAQAccordion.astro
-│   │   ├── GoogleReviews.astro
-│   │   ├── CTABanner.astro
-│   │   ├── QuoteForm.astro
-│   │   ├── SchemaMarkup.astro
-│   │   └── Breadcrumbs.astro
-│   └── data/
-│       ├── business.ts   ← swap this, new deployment
-│       ├── services.ts
-│       ├── locations.ts
-│       └── navigation.ts
+├── layouts/    5 purpose-built page types
+├── components/ 13 production components
+│   ├── Structural: Header · Footer · Hero
+│   ├── Content: Service · Feature · Blog
+│   ├── Conversion: CTA · Quote · Contact
+│   └── SEO: Schema · Reviews · Breadcrumbs
+└── data/       single config layer
+    └── [ swap one file → new deployment ]
 ```
 
 </td>
