@@ -175,7 +175,7 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 # PROPRIETARY BUILD SUITE
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
-*What's visible here is the tip of the iceberg.*
+*A few examples from a growing arsenal. The iceberg runs deep.*
 
 </div>
 
