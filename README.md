@@ -194,13 +194,13 @@ Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in one plugin. 11 in
 gr-performance/
 ├── 11 independently toggleable modules
 │   ├── [ Cache Engine          ]
-│   ├── [ Image Pipeline        ]  WebP · AVIF conversion
+│   ├── [ Image Pipeline        ]
 │   ├── [ Script Optimizer      ]
 │   ├── [ Style Optimizer       ]
 │   ├── [ HTML Minifier         ]
 │   ├── [ Resource Hints        ]
-│   ├── [ Server Config         ]  .htaccess tuning
-│   ├── [ Asset Controller      ]  conditional loading
+│   ├── [ Server Config         ]
+│   ├── [ Asset Controller      ]
 │   ├── [ Site Cleanup          ]
 │   ├── [ Database Optimizer    ]
 │   └── [ Scheduled Maintenance ]
@@ -218,10 +218,10 @@ Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent sys
 ```
 gr-checkout/
 └── 4-stage conversion system
-    ├── [ Checkout Layer        ]  one-page flow
-    ├── [ Pre-Purchase Engine   ]  order bump logic
-    ├── [ Post-Purchase Engine  ]  upsell + countdown
-    └── [ Thank You Builder     ]  configurable CTA
+    ├── [ Checkout Layer        ]
+    ├── [ Pre-Purchase Engine   ]
+    ├── [ Post-Purchase Engine  ]
+    └── [ Thank You Builder     ]
 ```
 
 </td>
@@ -274,9 +274,9 @@ Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST 
 ```
 gr-compare/
 └── [ 3-layer architecture ]
-    ├── [ Comparison Engine  ]  up to 4 products
-    ├── [ REST API Layer     ]  async loading
-    └── [ Shortcode System   ]  drop-in anywhere
+    ├── [ Comparison Engine  ]
+    ├── [ REST API Layer     ]
+    └── [ Shortcode System   ]
     — localStorage persistent · zero dependencies
 ```
 
