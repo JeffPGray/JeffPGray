@@ -311,7 +311,7 @@ gr-rifle-builder/
 
 # THEMES
 
-*Two purpose-built themes. Two different stacks. Both production-ready templates.*
+*Two examples from our proprietary theme library. Two stacks. Infinite deployments.*
 
 </div>
 
