@@ -193,17 +193,17 @@ Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in one plugin. 11 in
 ```
 gr-performance/
 ├── 11 independently toggleable modules
-│   ├── [ Cache Engine          ]
-│   ├── [ Image Pipeline        ]
-│   ├── [ Script Optimizer      ]
-│   ├── [ Style Optimizer       ]
-│   ├── [ HTML Minifier         ]
-│   ├── [ Resource Hints        ]
-│   ├── [ Server Config         ]
-│   ├── [ Asset Controller      ]
-│   ├── [ Site Cleanup          ]
-│   ├── [ Database Optimizer    ]
-│   └── [ Scheduled Maintenance ]
+│   ├── Cache Engine
+│   ├── Image Pipeline
+│   ├── Script Optimizer
+│   ├── Style Optimizer
+│   ├── HTML Minifier
+│   ├── Resource Hints
+│   ├── Server Config
+│   ├── Asset Controller
+│   ├── Site Cleanup
+│   ├── Database Optimizer
+│   └── Scheduled Maintenance
 └── admin/ dashboard per module
 ```
 
@@ -218,10 +218,10 @@ Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent sys
 ```
 gr-checkout/
 └── 4-stage conversion system
-    ├── [ Checkout Layer        ]
-    ├── [ Pre-Purchase Engine   ]
-    ├── [ Post-Purchase Engine  ]
-    └── [ Thank You Builder     ]
+    ├── Checkout Layer
+    ├── Pre-Purchase Engine
+    ├── Post-Purchase Engine
+    └── Thank You Builder
 ```
 
 </td>
@@ -273,10 +273,10 @@ Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST 
 
 ```
 gr-compare/
-└── [ 3-layer architecture ]
-    ├── [ Comparison Engine  ]
-    ├── [ REST API Layer     ]
-    └── [ Shortcode System   ]
+└── 3-layer architecture
+    ├── Comparison Engine
+    ├── REST API Layer
+    └── Shortcode System
     — localStorage persistent · zero dependencies
 ```
 
