@@ -190,15 +190,36 @@ plugins/gr-checkout/
     └── class-grc-thankyou.php
 ```
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔍 GR SEO Companion
 **Rich results on day one.**
 
-Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema from native HTML. Zero configuration required.
+Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD structured data across the entire site: WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, and FAQPage schema parsed automatically from native `<details>/<summary>` HTML. Zero configuration required. Zero query overhead.
 
 ```
 plugins/gr-seo-companion/
 └── gr-seo-companion.php
     (single-file mu-plugin — lean by design)
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 GR Speed Optimizations
+**Front-end performance without the overhead.**
+
+Targeted performance layer for sites that need speed gains without a full caching overhaul. Resource hints (preconnect, DNS-prefetch), native lazy loading, font-display swap, YouTube facade, link prefetch on hover, and selective script defer — all without touching jQuery, Revolution Slider, or WPBakery. Ships with a companion JS loader that runs before DOM-ready.
+
+```
+plugins/gr-speed-optimizations/
+├── g2-speed-optimizations.php
+└── g2-speed-load.js
+    (resource hints · defer · lazy load ·
+     preconnect headers · YouTube facade)
 ```
 
 </td>
