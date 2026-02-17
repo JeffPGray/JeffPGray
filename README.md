@@ -34,8 +34,7 @@ We combine proprietary data augmentation with full-service digital marketing. Ea
 
 > *We do not recycle playbooks. We do not share client identities. What we build for you exists for you alone.*
 
-<!-- dark blue tech globe - full width accent -->
-<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=180&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=160&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -58,24 +57,42 @@ We combine proprietary data augmentation with full-service digital marketing. Ea
 
 </div>
 
-<!-- dark geometric mesh - full width accent -->
-<img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; WHAT WE BUILD &nbsp;&nbsp; `◈`
+### `◈` &nbsp;&nbsp; WEB & eCOMMERCE DEVELOPMENT &nbsp;&nbsp; `◈`
+
+*From concept to conversion — engineered from scratch, deployed with precision.*
 
 </div>
 
 <br/>
 
-Every client engagement is engineered from scratch — no page builders, no bloated themes, no shortcuts. The stack is chosen for the job. The result is always the same: fast, conversion-ready, built to lead.
+We don't do page builders. Every site ships from one of two purpose-built stacks depending on what the business actually needs — and every deployment includes a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO dominance.
 
-We build in two directions. For content and local service sites, we migrate clients off WordPress/Elementor onto **Astro + Tailwind** — static output, near-perfect Core Web Vitals, zero plugin dependency. For eCommerce, we build on our own **Valor theme** — a modular WordPress/WooCommerce foundation with a proprietary plugin suite that replaces entire categories of off-the-shelf software.
+<br/>
 
-Every deployment ships with a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO dominance.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**For Content & Local Service Businesses**
+
+We migrate clients off WordPress/Elementor bloat onto **Astro + Tailwind** — static output, sub-second load times, near-perfect Core Web Vitals, zero plugin dependency. Deployments include data-driven location pages at scale, service-specific layouts, video hero sections, integrated schema markup, Google Reviews, and quote/contact forms — all from a single configurable data layer.
+
+</td>
+<td width="50%" valign="top">
+
+**For eCommerce & WooCommerce**
+
+We build on our own **Valor theme** — a modular WordPress/WooCommerce foundation paired with a proprietary plugin suite. One-page checkout, product comparison, structured data, and performance optimization are all handled by purpose-built tools that replace entire categories of off-the-shelf software. No plugin conflicts. No bloat. No compromises on the most revenue-critical pages.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -107,6 +124,7 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Go High Level](https://img.shields.io/badge/Go_High_Level-F97316?style=for-the-badge&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Close CRM](https://img.shields.io/badge/Close_CRM-4CAF50?style=for-the-badge&logoColor=white)
@@ -116,8 +134,7 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 
 </div>
 
-<!-- gold bokeh strip -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
@@ -126,7 +143,7 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 # PROPRIETARY BUILD SUITE
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
-*What's public here is the tip of the iceberg.*
+*What's visible here is the tip of the iceberg.*
 
 </div>
 
@@ -141,43 +158,71 @@ Every deployment ships with a full go-live audit: crawl verification, redirect m
 
 Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in one plugin. 11 independently toggleable modules: page caching, WebP/AVIF conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, conditional asset loading. PHP 8.0+, PSR autoloading, zero configuration sprawl.
 
+```
+plugins/gr-performance/
+├── includes/
+│   ├── class-grp-cache.php
+│   ├── class-grp-images.php
+│   ├── class-grp-scripts.php
+│   ├── class-grp-styles.php
+│   ├── class-grp-html.php
+│   ├── class-grp-hints.php
+│   ├── class-grp-htaccess.php
+│   ├── class-grp-assets.php
+│   ├── class-grp-cleanup.php
+│   ├── class-grp-database.php
+│   └── class-grp-cron.php
+└── admin/views/  (dashboard, cache, images,
+                   settings, htaccess, database)
+```
+
 </td>
 <td width="50%" valign="top">
 
 ### 💳 GR Checkout
 **Converts where it counts.**
 
-Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. One-page checkout, pre-purchase order bumps, frequently-bought-together upsells, post-purchase page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
+Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. One-page checkout, configurable pre-purchase order bumps, frequently-bought-together upsells, post-purchase page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+```
+plugins/gr-checkout/
+└── includes/
+    ├── class-grc-checkout.php
+    ├── class-grc-order-bump.php
+    ├── class-grc-upsell.php
+    └── class-grc-thankyou.php
+```
+
+<br/>
 
 ### 🔍 GR SEO Companion
 **Rich results on day one.**
 
-Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema parsed from native HTML. Zero configuration required.
+Runs as `mu-plugin` — always on. Auto-injects JSON-LD: Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, FAQPage schema from native `<details>/<summary>` HTML. Zero configuration required.
+
+```
+plugins/gr-seo-companion/
+└── gr-seo-companion.php
+    (single-file mu-plugin — lean by design)
+```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ↔️ GR Compare
 **Apple-style. WooCommerce-native.**
 
-Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST API, localStorage persistence. The UX Shopify merchants pay $30/month for — built native, zero dependencies.
+Side-by-side comparison of up to 4 products. Sticky bar, expandable specs, REST API for async loading, localStorage persistence. The UX Shopify merchants pay $30/month for — built native, zero dependencies.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Valor Theme
-**The foundation everything runs on.**
-
-Modular WordPress theme — license-gated, zero bloat. Ships with mega menu, carousel, wishlist, size guide modal, unified pixel manager (Meta · GA4 · TikTok), and full WooCommerce integration that loads only when WC is active.
-
-*Deployed on: Auto Spa & Detailing Client*
+```
+plugins/gr-compare/
+└── includes/
+    ├── class-grcomp-compare.php
+    ├── class-grcomp-rest.php
+    └── class-grcomp-shortcode.php
+```
 
 </td>
 <td width="50%" valign="top">
@@ -187,14 +232,122 @@ Modular WordPress theme — license-gated, zero bloat. Ships with mega menu, car
 
 Fully custom AR-15 configurator for specialty firearms eCommerce. Step-by-step build flow, gear layout display, included vs. upgrade pricing, bundle discounts, WooCommerce cart integration, quote CPT, REST API, and cryptographic license + file integrity protection.
 
-*Deployed on: Specialty Firearms eCommerce*
+```
+plugins/gr-rifle-builder/
+├── includes/
+│   ├── class-g2rb-loader.php
+│   ├── class-g2rb-rest-api.php
+│   ├── class-g2rb-cart.php
+│   ├── class-g2rb-quote.php
+│   ├── class-g2rb-quote-cpt.php
+│   ├── class-g2rb-product-query.php
+│   └── class-g2rb-license.php
+└── templates/
+    ├── builder-main.php
+    ├── builder-step-nav.php
+    ├── builder-gear-layout.php
+    ├── builder-product-grid.php
+    ├── builder-summary.php
+    ├── builder-quote-modal.php
+    └── email/ (quote request + confirmation)
+```
 
 </td>
 </tr>
 </table>
 
-<!-- dark starfield footer accent -->
-<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&h=120&fit=crop&crop=center&q=85" width="100%"/>
+<br/>
+
+---
+
+<div align="center">
+
+### `◈` &nbsp;&nbsp; THEMES &nbsp;&nbsp; `◈`
+
+*Two purpose-built themes. Two different stacks. Both production-ready templates.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Valor — WordPress / WooCommerce Theme
+
+Modular WordPress theme built for eCommerce and high-converting product sites. License-gated, zero bloat on activation. All logic lives in `inc/` classes with PSR-style autoloading — swap or extend any module without touching core files.
+
+Ships with mega menu, carousel, Ajax search, wishlist, size guide modal, customizer integration, and a unified pixel manager (Meta · GA4 · TikTok). Full WooCommerce integration only loads when WC is active.
+
+**Status:** In development — not yet deployed.
+
+```
+themes/valor-theme/
+├── inc/
+│   ├── class-valor-setup.php
+│   ├── class-valor-cleanup.php
+│   ├── class-valor-assets.php
+│   ├── class-valor-woocommerce.php
+│   ├── class-valor-mega-menu.php
+│   ├── class-valor-carousel.php
+│   ├── class-valor-ajax-search.php
+│   ├── class-valor-wishlist.php
+│   ├── class-valor-size-guide.php
+│   ├── class-valor-pixel-manager.php
+│   ├── class-valor-customizer.php
+│   ├── class-valor-license.php
+│   └── class-valor-admin.php
+└── woocommerce/  (product, cart, archive templates)
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Crest — Astro / Tailwind Theme
+
+Purpose-built for local service businesses — auto detailing, med spas, home services, specialty retail, and any business that needs to own a geographic market. Migrates clients off WordPress/Elementor bloat onto static Astro with near-perfect Core Web Vitals out of the box.
+
+Fully data-driven. Swap `business.ts` and you have a new deployment. Ships with geo-targeted location page architecture (scale to 20+ cities from a single layout), service-specific page templates, video hero sections, Google Reviews integration, FAQ accordion with auto-injected schema, quote forms, and breadcrumb + sitemap generation.
+
+**Status:** Deployed — auto spa & detailing vertical.
+
+```
+crest-theme/  (Astro + Tailwind)
+├── src/
+│   ├── layouts/
+│   │   ├── BaseLayout.astro
+│   │   ├── PageLayout.astro
+│   │   ├── ServiceLayout.astro
+│   │   ├── LocationLayout.astro
+│   │   └── BlogLayout.astro
+│   ├── components/
+│   │   ├── Hero.astro
+│   │   ├── Header.astro  /  Footer.astro
+│   │   ├── ServiceCard.astro
+│   │   ├── FeaturePillar.astro
+│   │   ├── FAQAccordion.astro
+│   │   ├── GoogleReviews.astro
+│   │   ├── CTABanner.astro
+│   │   ├── CTAWithForm.astro
+│   │   ├── QuoteForm.astro
+│   │   ├── ContactForm.astro
+│   │   ├── SchemaMarkup.astro
+│   │   ├── BlogCard.astro
+│   │   └── Breadcrumbs.astro
+│   └── data/
+│       ├── business.ts   ← swap this, new deployment
+│       ├── services.ts
+│       ├── locations.ts
+│       ├── reviews.ts
+│       └── navigation.ts
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&h=100&fit=crop&crop=center&q=85" width="100%"/>
 
 ---
 
