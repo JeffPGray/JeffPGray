@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" width="400" height="80">
+  <rect width="400" height="80" fill="#0a0e1a"/>
+  <rect x="20" y="18" width="44" height="44" rx="9" fill="#c9a84c"/>
+  <text x="42" y="51" font-family="Georgia,serif" font-size="30" font-weight="700" text-anchor="middle" fill="#0a0e1a">G</text>
+  <text x="80" y="38" font-family="Georgia,'Times New Roman',serif" font-size="20" font-weight="700" letter-spacing="6" fill="#ffffff">GRAY RESERVE</text>
+  <text x="81" y="57" font-family="Arial,sans-serif" font-size="8.5" font-weight="400" letter-spacing="4" fill="#c9a84c">STRATEGIC GROWTH FIRM</text>
+</svg>
