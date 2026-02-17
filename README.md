@@ -84,23 +84,91 @@
 
 ### `◈` &nbsp;&nbsp; WHAT WE BUILD &nbsp;&nbsp; `◈`
 
-*Custom WordPress themes, WooCommerce conversion systems, performance infrastructure,*  
-*structured data layers, and AI-powered marketing automation — all proprietary, all built in-house.*
+*Every client site is engineered from scratch — no page builders, no bloated themes, no shortcuts.*  
+*The stack is chosen for the job. The result is always the same: fast, conversion-ready, built to last.*
 
 <br/>
 
+**WEB & eCOMMERCE DEVELOPMENT**
+
+We build in two directions depending on what the client needs. For content sites and local service businesses, we migrate off WordPress/Elementor onto **Astro + Tailwind** — static output, near-perfect Core Web Vitals, zero plugin dependency. For eCommerce and WooCommerce stores, we build on our own **Valor theme** — a thin, modular WordPress theme with purpose-built plugins that replace entire categories of off-the-shelf software.
+
+Every deployment includes a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO.
+
+<br/>
+
+**PLATFORMS**
+
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**LANGUAGES & TOOLS**
+
 ![PHP 8](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**GROWTH & AI**
+
+![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Close CRM](https://img.shields.io/badge/Close_CRM-4CAF50?style=for-the-badge&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+---
+
+<div align="center">
+
+### `◈` &nbsp;&nbsp; PROPRIETARY PLUGIN SUITE &nbsp;&nbsp; `◈`
+
+*Built in-house. Replaces entire categories of off-the-shelf software. Zero conflicts.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ `gr-performance`**  
+Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in a single modular plugin. Page caching, WebP/AVIF image conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, and conditional asset loading — 11 independently toggleable modules. PHP 8.0+, PSR-style autoloading, zero configuration sprawl.
+
+</td>
+<td width="50%" valign="top">
+
+**💳 `gr-checkout`**  
+Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent conversion system. Streamlined one-page checkout, configurable pre-purchase order bumps, frequently-bought-together upsells, and post-purchase thank-you upsells with countdown timer. No inter-plugin conflicts breaking the most revenue-critical page on the site.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 `gr-seo-companion`**  
+Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD structured data: full WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), individual Review schema, and FAQPage schema parsed from `<details>/<summary>` HTML with zero configuration. Google rich result eligible on day one.
+
+</td>
+<td width="50%" valign="top">
+
+**↔️ `gr-compare`**  
+Apple-style side-by-side product comparison for WooCommerce. Compare up to 4 products, sticky bottom bar, expandable spec tables, REST API for async data loading, localStorage persistence across navigation. The UX that Shopify merchants pay $30/month for — built native, no external dependencies.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <br/>
 
