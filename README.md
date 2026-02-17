@@ -63,7 +63,7 @@ Every engagement is private by design. No two strategies are alike. Every system
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; WEB & eCOMMERCE DEVELOPMENT &nbsp;&nbsp; `◈`
+# WEB & eCOMMERCE DEVELOPMENT
 
 *From concept to conversion — engineered from scratch, deployed with precision.*
 
@@ -79,14 +79,14 @@ We don't do page builders. Every site ships from one of two purpose-built stacks
 <tr>
 <td width="50%" valign="top">
 
-**Content & Local Service Businesses**
+### 🏙️ Content & Local Service Businesses
 
 We migrate clients off WordPress/Elementor bloat onto **Astro + Tailwind** — static output, sub-second load times, near-perfect Core Web Vitals, zero plugin dependency. Deployments include data-driven location pages at scale, service-specific layouts, video hero sections, integrated schema markup, Google Reviews, and quote/contact forms — all from a single configurable data layer.
 
 </td>
 <td width="50%" valign="top">
 
-**eCommerce & WooCommerce**
+### 🛒 eCommerce & WooCommerce
 
 We build on our own **Valor theme** — a modular WordPress/WooCommerce foundation paired with a proprietary plugin suite. One-page checkout, product comparison, structured data, and performance optimization are all handled by purpose-built tools that replace entire categories of off-the-shelf software. No plugin conflicts. No bloat. No compromises on the most revenue-critical pages.
 
