@@ -1,22 +1,15 @@
 <div align="center">
 
-<!-- HERO BANNER: dark luxury texture with gold overlay -->
-<img src="https://images.unsplash.com/photo-1557683316-973673baf926?w=1600&h=320&fit=crop&q=80&blend=0a0e1a&blend-mode=multiply" width="100%" style="border-radius:0"/>
+<!-- HERO: dark luxury gold gradient texture -->
+<img src="https://images.unsplash.com/photo-1614850523296-d8c1af93d400?w=1600&h=280&fit=crop&q=85&sat=-20" width="100%"/>
 
-<!-- GR LOGO from repo -->
-<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/gr-logo-wide.svg" width="340" alt="Gray Reserve"/>
-
+<!-- GR LOGO — rendered directly from SVG, no black box -->
+<br/>
+<img src="https://raw.githubusercontent.com/JeffPGray/JeffPGray/main/gr-logo-wide.svg" width="320" alt="Gray Reserve — Strategic Growth Firm"/>
 <br/><br/>
 
-<!-- Capsule render wave on top of the texture -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,100:0a0e1a&height=3&section=header" width="100%"/>
-
-</div>
-
-<div align="center">
-
 <a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=2800&pause=1000&color=C9A84C&center=true&vCenter=true&multiline=false&width=900&height=52&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Private+engagements.+Confidential+clients.+Measurable+results." alt="Gray Reserve" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=24&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&width=920&height=48&lines=Advantage+Is+Not+Competed+For.+It+Is+Compounded.;Most+owners+leave+42%E2%80%9367%25+of+their+market+on+the+table+every+month.;We+reclaim+it+%E2%80%94+permanently+and+at+scale.;Data.+Advertising.+Web.+AI.+Advisory.+The+Intensive.;Built+from+The+Woodlands%2C+Texas.+Deployed+Nationally.;Six+disciplines.+One+compounding+engine.+Zero+shared+playbooks." alt="Gray Reserve" />
 </a>
 
 <br/><br/>
@@ -29,21 +22,19 @@
 
 </div>
 
-<br/>
-
-<!-- DIVIDER: gold texture strip -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=6&fit=crop&q=80" width="100%"/>
+<!-- GOLD DIVIDER STRIP -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=5&fit=crop&q=80" width="100%"/>
 
 <br/>
 
 <div align="center">
 
-![250+ Businesses](https://img.shields.io/badge/250%2B-BUSINESSES%20SERVED-C9A84C?style=for-the-badge&labelColor=0a0e1a)
-&nbsp;&nbsp;
+![250+](https://img.shields.io/badge/250%2B-BUSINESSES%20SERVED-C9A84C?style=for-the-badge&labelColor=0a0e1a)
+&nbsp;
 ![30-400%](https://img.shields.io/badge/30–400%25-REVENUE%20INCREASES-C9A84C?style=for-the-badge&labelColor=0a0e1a)
-&nbsp;&nbsp;
-![6 Disciplines](https://img.shields.io/badge/6-GROWTH%20DISCIPLINES-C9A84C?style=for-the-badge&labelColor=0a0e1a)
-&nbsp;&nbsp;
+&nbsp;
+![6](https://img.shields.io/badge/6-GROWTH%20DISCIPLINES-C9A84C?style=for-the-badge&labelColor=0a0e1a)
+&nbsp;
 ![45 Days](https://img.shields.io/badge/45%20DAYS-CPL%20GUARANTEE-C9A84C?style=for-the-badge&labelColor=0a0e1a)
 
 </div>
@@ -73,10 +64,7 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 <td width="45%" valign="top">
 
 <div align="center">
-
-<!-- Cosmic/luxury image as section accent -->
-<img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=500&h=280&fit=crop&q=80" width="100%" style="border-radius:8px; opacity:0.85;"/>
-
+<img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&h=300&fit=crop&q=85" width="100%" style="border-radius:6px"/>
 </div>
 
 </td>
@@ -88,8 +76,6 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 ---
 
 <div align="center">
-
-<br/>
 
 ### `◈` &nbsp;&nbsp; SIX DISCIPLINES. ONE COMPOUNDING ENGINE. &nbsp;&nbsp; `◈`
 
@@ -110,10 +96,8 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 
 <br/>
 
-<!-- DIVIDER: dark geometric texture -->
-<img src="https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=1600&h=6&fit=crop&q=80" width="100%"/>
-
-<br/>
+<!-- TECH TEXTURE DIVIDER -->
+<img src="https://images.unsplash.com/photo-1545987796-200677ee1011?w=1600&h=5&fit=crop&q=80" width="100%"/>
 
 ---
 
@@ -127,22 +111,19 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-*Every client site is engineered from scratch — no page builders, no bloated themes, no shortcuts. The stack is chosen for the job. The result is always the same: fast, conversion-ready, built to last.*
+Every client engagement is engineered from scratch — no page builders, no bloated themes, no shortcuts. The stack is chosen for the job. The result is always the same: fast, conversion-ready, built to lead.
 
-We build in two directions. For content sites and local service businesses, we migrate off WordPress/Elementor onto **Astro + Tailwind** — static output, near-perfect Core Web Vitals, zero plugin dependency. For eCommerce, we build on our own **Valor theme** — a modular WordPress theme with proprietary plugins that replace entire categories of off-the-shelf software.
+We build in two directions. For content and local service sites, we migrate clients off WordPress/Elementor onto **Astro + Tailwind** — static output, near-perfect Core Web Vitals, zero plugin dependency. For eCommerce, we build on our own **Valor theme** — a modular WordPress/WooCommerce foundation with a proprietary plugin suite that replaces entire categories of off-the-shelf software.
 
-Every deployment includes a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO.
+Every deployment ships with a full go-live audit: crawl verification, redirect mapping, schema validation, Core Web Vitals baseline, and geo-targeted location page architecture for local SEO dominance.
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
-
-<!-- Dark luxury abstract as section image -->
-<img src="https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=500&h=300&fit=crop&q=80" width="100%" style="border-radius:8px; opacity:0.9;"/>
-
+<img src="https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=500&h=300&fit=crop&q=85" width="100%" style="border-radius:6px"/>
 </div>
 
 </td>
@@ -153,43 +134,54 @@ Every deployment includes a full go-live audit: crawl verification, redirect map
 
 <div align="center">
 
-**PLATFORMS**
+**── PLATFORMS ──**
 
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![BigCommerce](https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**LANGUAGES & TOOLS**
+**── LANGUAGES ──**
 
 ![PHP 8](https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**GROWTH & AI**
+**── GROWTH & AI ──**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Meta Ads](https://img.shields.io/badge/Meta_Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Close CRM](https://img.shields.io/badge/Close_CRM-4CAF50?style=for-the-badge&logoColor=white)
+![Make](https://img.shields.io/badge/Make_(Integromat)-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
 
 <br/>
 
+<!-- GEOMETRIC DIVIDER -->
+<img src="https://images.unsplash.com/photo-1533134242443-d4fd215305ad?w=1600&h=5&fit=crop&q=80" width="100%"/>
+
 ---
 
 <div align="center">
 
-### `◈` &nbsp;&nbsp; PROPRIETARY PLUGIN SUITE &nbsp;&nbsp; `◈`
+# PROPRIETARY BUILD SUITE
 
-*Built in-house. Replaces entire categories of off-the-shelf software. Zero conflicts.*
+*Engineered in-house. Every plugin replaces a category — not a feature.*  
+*This is the tip of the iceberg.*
 
 </div>
 
@@ -199,37 +191,62 @@ Every deployment includes a full go-live audit: crawl verification, redirect map
 <tr>
 <td width="50%" valign="top">
 
-**⚡ `gr-performance`**  
-Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in a single modular plugin. Page caching, WebP/AVIF image conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, and conditional asset loading — 11 independently toggleable modules. PHP 8.0+, zero configuration sprawl.
+### ⚡ GR Performance
+**Kills your plugin list.**
+
+Replaces WP Rocket + Autoptimize + WP-Optimize + ShortPixel in a single modular plugin. 11 independently toggleable modules: page caching, WebP/AVIF image conversion, JS/CSS optimization, HTML minification, .htaccess tuning, database cleanup, conditional asset loading. PHP 8.0+, PSR autoloading, zero configuration sprawl.
 
 </td>
 <td width="50%" valign="top">
 
-**💳 `gr-checkout`**  
-Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. Streamlined one-page checkout, pre-purchase order bumps, frequently-bought-together upsells, and post-purchase thank-you page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
+### 💳 GR Checkout
+**Converts where it counts.**
+
+Replaces CartFlows + Order Bump plugins + Thank You builders in one coherent system. Streamlined one-page checkout, configurable pre-purchase order bumps, frequently-bought-together upsells, post-purchase thank-you page with countdown timer. No inter-plugin conflicts on the most revenue-critical page on the site.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 `gr-seo-companion`**  
-Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD: full WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers with sale dates), Review schema, and FAQPage schema parsed from `<details>/<summary>` HTML with zero configuration required.
+### 🔍 GR SEO Companion
+**Rich results on day one.**
+
+Runs as `mu-plugin` — always on, cannot be accidentally deactivated. Auto-injects JSON-LD structured data: WooCommerce Product schema (Brand, GTIN, MPN, AggregateRating, Offers), Review schema, and FAQPage schema parsed from native HTML. No configuration required.
 
 </td>
 <td width="50%" valign="top">
 
-**↔️ `gr-compare`**  
-Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, sticky bottom bar, expandable spec tables, REST API for async loading, localStorage persistence across navigation. The UX Shopify merchants pay $30/month for — built native, no external dependencies.
+### ↔️ GR Compare
+**Apple-style. WooCommerce-native.**
+
+Side-by-side comparison of up to 4 products. Sticky bottom bar, expandable spec tables, REST API for async loading, localStorage persistence across navigation. The UX Shopify merchants pay $30/month for — built native, no external dependencies.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Valor Theme
+**The foundation everything runs on.**
+
+Thin modular loader — all logic in `inc/` classes, license-gated, zero bloat on activation. Ships with mega menu, carousel, wishlist, size guide modal, unified pixel manager (Meta · GA4 · TikTok), and full WooCommerce integration that only loads when WC is active.
+
+*Deployed on: Auto Spa & Detailing*
+
+</td>
+<td width="50%" valign="top">
+
+### 🔫 GR Rifle Builder
+**The most complex thing we've built.**
+
+A fully custom AR-15 configurator for specialty firearms retailers. Step-by-step build flow with gear layout display, included vs. upgrade pricing, bundle discounts, WooCommerce cart integration, quote system with CPT, REST API, and file integrity license protection. Built for one client. *Too useful not to keep.*
+
+*Deployed on: Specialty Firearms eCommerce*
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- DIVIDER: gold abstract strip -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=6&fit=crop&q=80" width="100%"/>
 
 <br/>
 
@@ -247,7 +264,7 @@ Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, s
 <tr>
 <td width="50%" valign="top" align="center">
 
-![52% CPL Drop](https://img.shields.io/badge/52%25-CPL%20DROP%20IN%2060%20DAYS-C9A84C?style=for-the-badge&labelColor=0a0e1a)
+![52%](https://img.shields.io/badge/52%25-CPL%20DROP%20IN%2060%20DAYS-C9A84C?style=for-the-badge&labelColor=0a0e1a)
 
 <br/>
 
@@ -282,7 +299,7 @@ Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, s
 </td>
 <td width="50%" valign="top" align="center">
 
-![38% Revenue](https://img.shields.io/badge/38%25-REVENUE%20IN%20ONE%20QUARTER-C9A84C?style=for-the-badge&labelColor=0a0e1a)
+![38%](https://img.shields.io/badge/38%25-REVENUE%20IN%20ONE%20QUARTER-C9A84C?style=for-the-badge&labelColor=0a0e1a)
 
 <br/>
 
@@ -302,6 +319,9 @@ Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, s
 
 <br/>
 
+<!-- GOLD STRIP -->
+<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1600&h=5&fit=crop&q=80" width="100%"/>
+
 ---
 
 <div align="center">
@@ -317,17 +337,17 @@ Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, s
 
 <br/>
 
-![AI Already Arrived](https://img.shields.io/badge/AI%20Already%20Arrived-AI%20Systems-C9A84C?style=flat-square&labelColor=0a0e1a)
+![AI](https://img.shields.io/badge/AI%20Already%20Arrived-AI%20Systems-C9A84C?style=flat-square&labelColor=0a0e1a)
 &nbsp;
-![Audience Augmentation](https://img.shields.io/badge/Audience%20Augmentation%3A%20The%20Silent%20Leak-Data-C9A84C?style=flat-square&labelColor=0a0e1a)
+![Data](https://img.shields.io/badge/Audience%20Augmentation%3A%20The%20Silent%20Leak-Data-C9A84C?style=flat-square&labelColor=0a0e1a)
 &nbsp;
-![90-Day Sprint](https://img.shields.io/badge/The%2090--Day%20Growth%20Sprint-Strategy-C9A84C?style=flat-square&labelColor=0a0e1a)
+![Strategy](https://img.shields.io/badge/The%2090--Day%20Growth%20Sprint-Strategy-C9A84C?style=flat-square&labelColor=0a0e1a)
 
-![Competitive Intel](https://img.shields.io/badge/Competitive%20Intelligence%20Without%20Espionage-Intelligence-C9A84C?style=flat-square&labelColor=0a0e1a)
+![Intel](https://img.shields.io/badge/Competitive%20Intelligence%20Without%20Espionage-Intelligence-C9A84C?style=flat-square&labelColor=0a0e1a)
 &nbsp;
-![The $100K Myth](https://img.shields.io/badge/The%20%24100K%20Website%20Myth-Web-C9A84C?style=flat-square&labelColor=0a0e1a)
+![Web](https://img.shields.io/badge/The%20%24100K%20Website%20Myth-Web-C9A84C?style=flat-square&labelColor=0a0e1a)
 &nbsp;
-![CPL Guarantee](https://img.shields.io/badge/Why%20We%20Guarantee%20Your%20CPL-Advertising-C9A84C?style=flat-square&labelColor=0a0e1a)
+![Ads](https://img.shields.io/badge/Why%20We%20Guarantee%20Your%20CPL-Advertising-C9A84C?style=flat-square&labelColor=0a0e1a)
 
 <br/><br/>
 
@@ -354,9 +374,7 @@ Apple-style side-by-side product comparison for WooCommerce. Up to 4 products, s
 
 <br/>
 
-<!-- FOOTER: cosmic texture with gold wave -->
-<img src="https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=1600&h=200&fit=crop&q=80" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000088,100:00000099&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER IMAGE: cosmic luxury -->
+<img src="https://images.unsplash.com/photo-1464802686167-b939a6910659?w=1600&h=220&fit=crop&q=85" width="100%"/>
 
 </div>
