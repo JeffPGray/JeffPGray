@@ -47,11 +47,11 @@ No two engagements are alike. Every system, campaign, and strategy is architecte
  400%
    2   Businesses Built 0 → 7 Figures
   <2   Years Each
-  45   Days to Beat Your Current CPL
+  45   Days to Beat Your CPL
        — or the next month is free
 ```
 
-Every strategy we deploy was
+Every strategy we deploy was  
 **battle-tested on our own P&L first.**
 
 </td>
@@ -62,81 +62,30 @@ Every strategy we deploy was
 
 ## ⟡ Six Disciplines. One Compounding Engine.
 
-*Every discipline delivers on its own. Start with one, or engage all six.*
-*The more you layer, the faster advantage compounds.*
-
-<br/>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**`01` &nbsp; DATA — Audience Augmentation**
+**`01` DATA** — Audience Augmentation  
+Private prospect reservoirs built from your buyer DNA. 40K–750K fresh contacts monthly. 80–90% match rates across Meta, Google & TikTok.
 
-A private reservoir of prospects, refreshed monthly from your past buyers, intent signals, and compounding look-alikes. Delivered up to **750,000 per month** — even if you never run a single ad with us.
+**`02` ADVERTISING** — Meta & Google  
+Weekly optimization, full creative strategy, ad architecture engineered for the lowest CPL in your market.
 
-- Fresh, layered audiences from 40K to 750K monthly
-- Built from your existing customer DNA
-- 80–90% match rates across Meta, Google, TikTok
-
-</td>
-<td width="50%" valign="top">
-
-**`02` &nbsp; ADVERTISING — Meta & Google Management**
-
-We audit, restructure, and scale your ad spend on a weekly or as-needed basis. Your ads. Our management. **Lowest CPL in your market.**
-
-- Weekly optimization or as-needed restructuring
-- Full creative strategy and ad architecture
-- Standalone or paired with augmentation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`03` &nbsp; DIGITAL — Web & eCommerce Development**
-
-High-converting websites, Shopify storefronts, and complete digital headquarters engineered for cold traffic. Fast. Mobile-first. Built to convert.
-
-- Fast-loading, mobile-first engineering
-- Shopify eCommerce rebuilt for lifetime value
-- Conversion architecture for cold traffic
+**`03` DIGITAL** — Web & eCommerce  
+High-converting sites and Shopify storefronts built for cold traffic. Fast. Mobile-first. No other services required.
 
 </td>
 <td width="50%" valign="top">
 
-**`04` &nbsp; INTELLIGENCE — AI-Powered Growth Systems**
+**`04` INTELLIGENCE** — AI Growth Systems  
+AI across marketing, sales, and ops. Automated lead nurture, CRM workflows, predictive analytics that compound.
 
-AI deployed across marketing, sales, and operations to eliminate manual bottlenecks and multiply output. Your growth channels run smarter, not harder.
+**`05` ADVISORY** — Fractional Leadership  
+Fractional CMO, Head of Growth, VP Sales — embedded at the executive level without full-time overhead.
 
-- AI-driven ad creative, copy, and campaign optimization
-- Automated lead nurture, CRM workflows, pipeline intelligence
-- Predictive analytics for spend allocation and audience targeting
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**`05` &nbsp; ADVISORY — Fractional Executive Leadership**
-
-Fractional Head of Growth. CMO. VP Sales. Gray Reserve embeds at the executive level to architect high-velocity sales systems and operational infrastructure — without the full-time overhead.
-
-- Fractional CMO, VP Sales, Head of Growth
-- High-velocity sales teams and conversion systems
-- Omnichannel outbound and pipeline architecture
-
-</td>
-<td width="50%" valign="top">
-
-**`06` &nbsp; INTENSIVE — Private Coaching & The Intensive**
-
-A two-day private engagement where we take your entire growth engine apart — offer, delivery, acquisition, retention — and rebuild from first principles.
-
-- Two-day private engagement, first principles
-- Written 90-day war plan and operating rhythm
-- Three months Dominion-tier audiences included
+**`06` INTENSIVE** — The 90-Day Sprint  
+Two-day private engagement. First principles teardown. Written war plan. Full deployment.
 
 </td>
 </tr>
@@ -144,18 +93,97 @@ A two-day private engagement where we take your entire growth engine apart — o
 
 ---
 
-## ⟡ The Engine — Audience Augmentation Tiers
+## ⟡ The Build Stack
 
-| Tier | Monthly Prospects | Ideal Ad Spend | Price |
-|------|-------------------|----------------|-------|
-| **Access** | Up to 40,000 | $1,000 – $2,999 | $1,500/mo |
-| **Signature** | Up to 80,000 | $3,000 – $4,999 | $1,850/mo |
-| **Reserve** | Up to 300,000 | $5,000 – $19,999 | $2,500/mo |
-| **Dominion** | Up to 750,000 | $20,000+ | $4,500/mo |
+> *Every tool in the GR stack is purpose-built. Nothing off the shelf that doesn't earn its place.*
 
-*Add Meta & Google Ad Management to any tier. Intelligence packages from $2,500/vertical.*
+### `gr-performance` — WordPress Performance Suite
 
-**The Guarantee:** If we don't beat your current CPL within 45 days, the following month is complimentary. No exceptions. No fine print.
+Replaces **WP-Optimize + Autoptimize + most caching plugins** — in a single, modular plugin.
+
+```
+Modules (each independently toggleable):
+  ├── cache        Page caching layer
+  ├── images       WebP + AVIF conversion & optimization
+  ├── scripts      JS defer, async, and removal controls
+  ├── styles       CSS optimization and unused rule elimination
+  ├── html         HTML minification
+  ├── hints        Resource hints (preload, prefetch, preconnect)
+  ├── htaccess     Server-level performance tuning
+  ├── assets       Conditional asset loading per post/page
+  ├── cleanup      WordPress bloat removal
+  ├── database     DB optimization and revision cleanup
+  └── cron         Scheduled cache purge + weekly DB maintenance
+```
+
+One plugin. No plugin conflicts. No redundant overhead. Built on PHP 8.0+ with PSR-style autoloading.
+
+---
+
+### `gr-checkout` — WooCommerce Checkout Engine
+
+Purpose-built conversion layer on top of WooCommerce's default checkout.
+
+```
+Features:
+  ├── One-page streamlined checkout (reduced friction)
+  ├── Configurable order bumps (pre-purchase add-ons)
+  ├── Pre-checkout upsells (frequently bought together)
+  └── Post-purchase thank-you upsells with countdown timer
+```
+
+Most stores bolt on 3–4 separate plugins to get this. GR Checkout handles all of it in one coherent system, without the inter-plugin conflicts that tank checkout performance.
+
+---
+
+### `gr-seo-companion` — Structured Data Layer
+
+Extends The SEO Framework with schema types most SEO plugins skip entirely.
+
+```
+Schema output (JSON-LD, auto-injected via wp_head):
+  ├── Product         Brand, GTIN, MPN, SKU, AggregateRating,
+  │                   Offers (with sale price + valid date range)
+  ├── Review          Individual WooCommerce reviews → ReviewList
+  └── FAQPage         From product meta OR <details>/<summary>
+  │                   elements in post/page content (zero config)
+```
+
+Runs as an `mu-plugin` — always on, no accidental deactivation. Google rich result eligible from day one.
+
+---
+
+### `gr-compare` — Apple-Style Product Comparison
+
+```
+  ├── Compare up to 4 WooCommerce products side-by-side
+  ├── Sticky bottom bar (persistent across scroll)
+  ├── Expandable spec tables
+  ├── REST API endpoint for async product data
+  ├── Shortcode-based placement
+  └── localStorage persistence (survives page navigation)
+```
+
+The comparison UX that Shopify merchants pay $30/month for, built native to WooCommerce.
+
+---
+
+### `valor` — WordPress Theme
+
+Thin modular loader architecture — all logic in `inc/` classes, autoloaded via PSR-style naming convention. Features gate behind license validation so the theme ships clean on any install.
+
+```
+Modules:
+  ├── Valor_Setup          Theme support, nav menus, image sizes
+  ├── Valor_Cleanup        WordPress bloat removal (emoji, oembed, etc.)
+  ├── Valor_Assets         Conditional, versioned asset loading
+  ├── Valor_WooCommerce    WC integration (loads only if WC active)
+  ├── Valor_Mega_Menu      Full-featured mega menu system
+  ├── Valor_Carousel       Product/content carousel
+  ├── Valor_Wishlist       Native wishlist without plugin overhead
+  ├── Valor_Size_Guide     Size guide modal system
+  └── Valor_Pixel_Manager  Unified tracking pixel management
+```
 
 ---
 
@@ -166,7 +194,7 @@ A two-day private engagement where we take your entire growth engine apart — o
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -180,40 +208,27 @@ A two-day private engagement where we take your entire growth engine apart — o
 
 ---
 
-## ⟡ GR Build Stack
-
-**Valor Theme** — Custom WordPress theme engineered for high-performance automotive and specialty retail. WooCommerce-native, mobile-first, conversion-optimized.
-
-| Plugin | Purpose |
-|--------|---------|
-| `gr-checkout` | Custom WooCommerce checkout engineered for conversion, not friction |
-| `gr-compare` | Side-by-side product/vehicle comparison UI |
-| `gr-performance` | Performance metrics display layer |
-| `gr-seo-companion` | SEO optimization tooling built to Gray Reserve client standards |
-
-*All repos private. Available to Gray Reserve clients and select partners.*
-
----
-
 ## ⟡ In Their Own Words
 
-> *"Our CPL dropped 52% in the first 60 days — and the audience data keeps compounding every month. Nothing we built with them looks or feels like anything our competitors are running."*
-> **— Commercial Roofing CEO** · Augmentation & Ads · Southeast Region
+> *"Our CPL dropped 52% in the first 60 days — and the audience data keeps compounding every month. Nothing we built with them looks or feels like anything our competitors are running."*  
+> **— Commercial Roofing CEO** · Southeast Region
 
-> *"The Intensive changed everything. We left with a 90-day war plan that has already shifted our trajectory toward eight figures. This is not marketing. This is infrastructure."*
-> **— Legal Practice Founder** · Consulting & Intensive · Houston, TX
+> *"The Intensive changed everything. We left with a 90-day war plan that has already shifted our trajectory toward eight figures. This is not marketing. This is infrastructure."*  
+> **— Legal Practice Founder** · Houston, TX
 
-> *"The AI appointment system they deployed fills our calendar without a single front-desk call. We went from 60% booked to consistently overbooked within 45 days."*
-> **— Med Spa Owner** · AI Systems & Ads · Houston, TX
+> *"The AI appointment system fills our calendar without a single front-desk call. We went from 60% booked to consistently overbooked within 45 days."*  
+> **— Med Spa Owner** · Houston, TX
 
-> *"Every agency before optimized for impressions, not foot traffic. Revenue across all three stores is up 38% in one quarter."*
-> **— Multi-Location Retail Owner** · Ads & Web · 3 Locations, Texas
+> *"Revenue across all three stores is up 38% in one quarter. Every agency before optimized for impressions — Gray Reserve restructured for revenue."*  
+> **— Multi-Location Retail Owner** · Texas
+
+*All clients remain confidential. No logos. No case studies. No exceptions.*
 
 ---
 
 ## ⟡ Published Intelligence
 
-80+ long-form articles covering growth architecture, AI marketing systems, paid media, and the strategies most agencies won't publish.
+80+ long-form articles on growth architecture, AI systems, paid media, and the strategies most agencies won't share.
 
 → **[grayreserve.com/insights](https://grayreserve.com/insights)**
 
@@ -232,7 +247,7 @@ A two-day private engagement where we take your entire growth engine apart — o
 
 ## ⟡ Ready to Compound?
 
-**Fifteen minutes. No cost. No deck.**
+**Fifteen minutes. No cost. No deck.**  
 *Only the mathematics of what you're leaving on the table — and how to reclaim it permanently.*
 
 <br/>
@@ -242,11 +257,8 @@ A two-day private engagement where we take your entire growth engine apart — o
 <br/>
 
 *All inquiries and client identities remain strictly confidential.*
-*We do not publish case studies, display logos, or disclose who works with us.*
 
-<br/>
-
-**📧** access@grayreserve.com &nbsp;|&nbsp; **📞** (936) 363-1823 &nbsp;|&nbsp; **◇** The Woodlands, Texas
+**📧** access@grayreserve.com &nbsp;|&nbsp; **◇** The Woodlands, Texas
 
 <br/>
 
