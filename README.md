@@ -54,8 +54,8 @@ Every engagement is private by design. No two strategies are alike. Every system
 | ![02](https://img.shields.io/badge/02-ADS-C9A84C?style=flat-square&labelColor=0a0e1a) | **Meta & Google Management** — Weekly restructure and optimization. Full creative strategy. Lowest cost-per-lead in your market — or the next month is on us. |
 | ![03](https://img.shields.io/badge/03-DIGITAL-C9A84C?style=flat-square&labelColor=0a0e1a) | **Web & eCommerce** — High-converting sites and Shopify storefronts engineered for cold traffic. No other services required. Just a site that performs like the category leader you intend to be. |
 | ![04](https://img.shields.io/badge/04-AI-C9A84C?style=flat-square&labelColor=0a0e1a) | **AI-Powered Growth Systems** — AI deployed across marketing, sales, and operations. Automated nurture, CRM intelligence, predictive analytics. Your growth channels run smarter, not harder. |
-| ![05](https://img.shields.io/badge/05-ADVISORY-C9A84C?style=flat-square&labelColor=0a0e1a) | **Fractional Executive Leadership** — Fractional CMO. Head of Growth. VP Sales. Embedded at the executive level with the output of a full team — without the overhead. |
-| ![06](https://img.shields.io/badge/06-INTENSIVE-C9A84C?style=flat-square&labelColor=0a0e1a) | **The Intensive** — A private two-day engagement. Full growth engine teardown. First principles rebuild. Written 90-day war plan. You leave ready to execute. |
+| ![05](https://img.shields.io/badge/05-ADVISORY-C9A84C?style=flat-square&labelColor=0a0e1a) | **Fractional Executive Leadership** — Fractional CMO. Head of Growth. VP Sales. Embedded at the executive level with the output of a full team — without the overhead. Includes operational audits, SOP architecture, and sales infrastructure builds. |
+| ![06](https://img.shields.io/badge/06-INTENSIVE-C9A84C?style=flat-square&labelColor=0a0e1a) | **The Intensive** — A private two-day engagement. Full growth engine teardown — marketing, sales, and operations. First principles rebuild. Written 90-day war plan with SOPs, scripts, and systems. You leave ready to execute. |
 
 </div>
 
@@ -175,7 +175,7 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 # PROPRIETARY BUILD SUITE
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
-*A few examples from a growing arsenal. The iceberg runs deep.*
+*Software, systems, and operational infrastructure. The iceberg runs deep.*
 
 </div>
 
@@ -283,6 +283,27 @@ gr-compare/
 </td>
 <td width="50%" valign="top">
 
+### 📍 GR Kort
+**Store locator. Zero vendor lock-in.**
+
+Full-featured dealer/store locator with dual map providers (Leaflet or Google Maps), Haversine proximity search, marker clustering, CSV import/export, vCard downloads, and a compact product-page "Find a Dealer" widget. Theme-adaptive via CSS custom properties — drops into any WordPress site.
+
+```
+gr-kort/
+└── Complete locator system
+    ├── Dual Map Engine (Leaflet / Google)
+    ├── Proximity Search (Haversine)
+    ├── REST API + Shortcodes
+    ├── CSV Import/Export
+    └── WooCommerce Dealer Widget
+    — zero-config · theme-adaptive · license-gated
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔫 GR Rifle Builder
 **The most complex thing we've built.**
 
@@ -299,6 +320,25 @@ gr-rifle-builder/
     ├── Product grid + build summary
     └── Quote modal + transactional email
     — cryptographic license · tamper detection
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 GR Operations Engine
+**Systems that survive without the founder.**
+
+We don't just build marketing machines — we build the operational infrastructure underneath them. Every Intensive and Advisory engagement includes an operational audit. Where the gaps are structural, we architect the SOPs, sales playbooks, scheduling systems, and quality control processes that let a business scale (or exit) without the owner in every seat.
+
+```
+Operations deliverables include:
+    ├── Sales scripts & objection frameworks
+    ├── Customer intake & service delivery SOPs
+    ├── Schedule & capacity management systems
+    ├── Quality control & follow-up protocols
+    ├── Recurring revenue program design
+    └── Complete operations manuals
+    — built from audits · deployed for scale or exit
 ```
 
 </td>
