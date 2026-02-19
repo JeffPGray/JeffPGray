@@ -442,7 +442,7 @@ lytir-theme/  (Astro + Tailwind)
 
 # PUBLISHED INTELLIGENCE
 
-*80+ long-form articles on growth, AI systems, and paid media.*  
+*210+ long-form articles on growth, AI systems, paid media, web development, and local market intelligence.*  
 *The strategies most agencies won't publish.*
 
 <br/>
