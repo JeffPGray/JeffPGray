@@ -175,7 +175,7 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 # PROPRIETARY BUILD SUITE
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
-*Software, systems, and operational infrastructure. The iceberg runs deep.*
+*A few examples from a growing arsenal. The iceberg runs deep.*
 
 </div>
 
@@ -323,25 +323,6 @@ gr-rifle-builder/
 ```
 
 </td>
-<td width="50%" valign="top">
-
-### 📋 GR Operations Engine
-**Systems that survive without the founder.**
-
-We don't just build marketing machines — we build the operational infrastructure underneath them. Every Intensive and Advisory engagement includes an operational audit. Where the gaps are structural, we architect the SOPs, sales playbooks, scheduling systems, and quality control processes that let a business scale (or exit) without the owner in every seat.
-
-```
-Operations deliverables include:
-    ├── Sales scripts & objection frameworks
-    ├── Customer intake & service delivery SOPs
-    ├── Schedule & capacity management systems
-    ├── Quality control & follow-up protocols
-    ├── Recurring revenue program design
-    └── Complete operations manuals
-    — built from audits · deployed for scale or exit
-```
-
-</td>
 </tr>
 </table>
 
@@ -408,6 +389,40 @@ lytir-theme/  (Astro + Tailwind)
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+# OPERATIONS INFRASTRUCTURE
+
+*Marketing drives demand. Operations captures it. We build both.*
+
+</div>
+
+<br/>
+
+Every engagement starts with an audit — and audits don't stop at ad accounts and analytics. The businesses that compound fastest are the ones where demand, sales, and delivery all run on documented systems instead of founder intuition. When we find structural gaps in how a business sells, schedules, delivers, or follows up, we architect the infrastructure to close them.
+
+This isn't consulting. It's construction. Playbooks with actual scripts. Scheduling systems with capacity rules. Quality control processes with inspection checklists. Recurring revenue programs designed around the services the business already delivers. Complete operations manuals that let a business scale — or exit — without the owner in every seat.
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | &nbsp; |
+|:---:|:---|
+| ![Sales](https://img.shields.io/badge/SALES-PLAYBOOKS-C9A84C?style=flat-square&labelColor=0a0e1a) | Consultative scripts, discovery frameworks, objection handling, closing sequences, deposit collection — built from how the business actually sells, not from a template. |
+| ![SOPs](https://img.shields.io/badge/SERVICE-DELIVERY%20SOPs-C9A84C?style=flat-square&labelColor=0a0e1a) | Customer intake, vehicle/project walk-arounds, documentation protocols, handoff procedures, pickup processes — every customer touchpoint standardized. |
+| ![QC](https://img.shields.io/badge/QUALITY-CONTROL-C9A84C?style=flat-square&labelColor=0a0e1a) | Post-service inspection checklists, follow-up outreach sequences, correction workflows — the systems that protect reputation at scale. |
+| ![Schedule](https://img.shields.io/badge/SCHEDULE-&%20CAPACITY-C9A84C?style=flat-square&labelColor=0a0e1a) | Service time allocations, booking flows, deposit policies, reschedule scripts, capacity planning — revenue-optimized scheduling. |
+| ![Revenue](https://img.shields.io/badge/RECURRING-REVENUE-C9A84C?style=flat-square&labelColor=0a0e1a) | Annual maintenance programs, proactive outreach calendars, upsell frameworks — designed to extend customer lifetime value and create predictable income. |
+
+</div>
+
+<br/>
+
+> *We built a 7-figure auto protection company on these systems, then sold it. The new owners ran it from day one using the operations manual we wrote. That's the standard.*
 
 ---
 
