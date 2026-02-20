@@ -175,7 +175,8 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 # PROPRIETARY BUILD SUITE
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
-*A few examples from a growing arsenal. The iceberg runs deep.*
+*A few examples from a growing arsenal. The iceberg runs deep.*  
+*10 plugins. 2 themes. Zero off-the-shelf dependencies.*
 
 </div>
 
@@ -320,6 +321,66 @@ gr-rifle-builder/
     ├── Product grid + build summary
     └── Quote modal + transactional email
     — cryptographic license · tamper detection
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 GR Rita
+**Gazette-style blog engine.**
+
+Transforms WordPress blog pages into magazine-quality layouts. Newspaper-style grid with hero feature, secondary features, and content stream. Custom Google Fonts (Playfair Display + Source Serif Pro), category accent colors, animated hover states, reading time badges, responsive breakpoints. Zero frontend JavaScript.
+
+```
+gr-rita/
+└── [ Gazette layout engine ]
+    ├── Hero Feature + Secondary Grid
+    ├── Content Stream + Category Colors
+    ├── Reading Time Badges
+    └── Web3Forms Contact Integration
+    — zero JS · magazine-quality · license-gated
+```
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ GR Uppfinna
+**Auto AI Crawler — one source of truth.**
+
+Automated GEO readiness engine that manages every AI crawler, generates llms.txt + brand.md, injects Schema.org JSON-LD, logs crawler activity, runs 15-point AI audits, and continuously learns via a configurable deep recrawl timer. Supports 9 AI crawlers including GPTBot, ClaudeBot, and PerplexityBot. 12-point AI Discovery Wiki built into the admin.
+
+```
+gr-uppfinna/
+└── [ 8-module GEO engine ]
+    ├── llms.txt + brand.md Generator
+    ├── Schema.org JSON-LD Injector
+    ├── AI Crawler Manager (robots.txt)
+    ├── Crawler Activity Logger
+    ├── 15-Point Readiness Audit
+    └── Deep Recrawl Engine (self-improving)
+    — replaces manual llms.txt · AIOSEO · RankMath AI
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ✍️ GR Brita
+**AI Blog Writer — magazine-quality on autopilot.**
+
+Generates researched, SEO-optimized articles on a schedule using Anthropic Claude (with web search) or OpenAI. 15-question brand wizard deep-dives the site, builds a permanent system prompt, then auto-generates 1,400+ word articles with featured images, schema, SEO meta, and email notifications. Topic queue with AI + manual entries. Auto-replenishes. Works with Uppfinna for instant AI visibility.
+
+```
+gr-brita/
+└── [ Full content pipeline ]
+    ├── Brand Wizard (15-question deep dive)
+    ├── Topic Queue (AI + manual, priority)
+    ├── AI Engine (Claude/GPT + web search)
+    ├── Image Resolver (gallery → Unsplash → Pexels)
+    ├── Auto-SEO (Yoast + RankMath compatible)
+    └── Scheduler + Email Notifications
+    — replaces Jasper · Copy.ai · WriteSonic
 ```
 
 </td>
