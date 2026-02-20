@@ -343,6 +343,8 @@ gr-rifle-builder/
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📰 GR Rita
@@ -361,8 +363,6 @@ gr-rita/
 ```
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ GR Uppfinna
@@ -383,6 +383,8 @@ gr-uppfinna/
 ```
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ✍️ GR Brita
@@ -400,6 +402,23 @@ gr-brita/
     ├── Auto-SEO (Yoast + RankMath compatible)
     └── Scheduler + Email Notifications
     — replaces Jasper · Copy.ai · WriteSonic
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 More In Development
+**The iceberg runs deeper than what's shown here.**
+
+Every tool starts the same way — a client need that no off-the-shelf solution handles cleanly. When we build it once, we build it right, and it joins the arsenal permanently. Each plugin is theme-agnostic, license-gated, and deployable standalone or as a full stack.
+
+```
+Coming next:
+├── Inventory & fulfillment automation
+├── Review generation engine
+├── Multi-location SEO architect
+└── Client portal & reporting dashboard
+    — always building · never standing still
 ```
 
 </td>
