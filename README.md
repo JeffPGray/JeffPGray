@@ -315,10 +315,10 @@ gr-finandi/
 └── [ FFL Locator System ]
     ├── ATF CSV Parser + Monthly Cron Sync
     ├── ZIP Code Geo-Index (Haversine)
-    ├── REST API + Override System
+    ├── REST API + FFL-Keyed Override System
     ├── Leaflet/Google Maps + vCard
     └── WooCommerce Checkout FFL Selector
-    — 51K+ dealers · Load More pagination · domain-locked
+    — 51K+ dealers · overrides persist forever · domain-locked
 ```
 
 </td>
