@@ -176,7 +176,7 @@ We build on our own **Valor theme** — a modular WordPress/WooCommerce foundati
 
 *Engineered in-house. Every tool replaces a category — not a feature.*  
 *A few examples from a growing arsenal. The iceberg runs deep.*  
-*10 plugins. 2 themes. Zero off-the-shelf dependencies.*
+*11 plugins. 2 themes. Zero off-the-shelf dependencies.*
 
 </div>
 
@@ -303,6 +303,25 @@ gr-kort/
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🎯 GR Finandi
+**Every FFL in America. Auto-updated. Zero data entry.**
+
+FFL Dealer Locator powered by live ATF data. Auto-downloads the monthly FFL listing, imports Type 01 (Dealers) and Type 02 (Pawnbrokers) into custom database tables — no CPTs. ZIP code proximity search via Haversine. Admin inline editing for email/phone/website. WooCommerce checkout integration for FFL transfer selection. Domain-bound copy protection.
+
+```
+gr-finandi/
+└── [ FFL Locator System ]
+    ├── ATF CSV Parser + Monthly Cron Sync
+    ├── ZIP Code Geo-Index (Haversine)
+    ├── REST API + Override System
+    ├── Leaflet/Google Maps + vCard
+    └── WooCommerce Checkout FFL Selector
+    — 51K+ dealers · custom DB · domain-locked
+```
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔫 GR Rifle Builder
