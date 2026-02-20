@@ -318,7 +318,7 @@ gr-finandi/
     ├── REST API + Override System
     ├── Leaflet/Google Maps + vCard
     └── WooCommerce Checkout FFL Selector
-    — 51K+ dealers · custom DB · domain-locked
+    — 51K+ dealers · Load More pagination · domain-locked
 ```
 
 </td>
